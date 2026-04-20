@@ -1,0 +1,15 @@
+[15196:9000:0420/152738.072:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15196:9000:0420/152738.115:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[40424:37180:0420/152740.583:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A25A4F97F1DEED7F4EA34AD00EE03065 will be ignored
+[15196:9000:0420/152743.690:ERROR:device_event_log_impl.cc(196)] [15:27:43.685] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[36664:19512:0420/152744.292:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[36664:19512:0420/152744.292:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[36664:19512:0420/152744.310:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[36664:19512:0420/152744.310:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[15196:35936:0420/152744.402:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[15196:35936:0420/152748.789:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[36664:19512:0420/152753.365:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[36664:19512:0420/152754.135:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[36664:19512:0420/152806.037:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[36664:19512:0420/152808.035:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[15196:9000:0420/153232.608:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
