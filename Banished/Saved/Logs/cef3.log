@@ -1,42 +1,15 @@
-[28048:25752:0421/173953.560:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[13940:42480:0421/173953.560:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[32388:38968:0421/173953.560:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[28048:25752:0421/173953.862:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[32388:38968:0421/173955.423:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[13940:42480:0421/173955.423:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[32388:38968:0421/173955.473:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[13940:42480:0421/173956.436:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[13940:42480:0421/173956.584:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[13940:42480:0421/174025.689:ERROR:device_event_log_impl.cc(196)] [17:40:25.685] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[32388:38968:0421/174025.739:ERROR:device_event_log_impl.cc(196)] [17:40:25.685] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[46240:14472:0421/174026.491:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5926F1F9CC6297BDE8CCE91F8764C7AC will be ignored
-[38852:13084:0421/174026.491:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-99AC4CBDE8A75DBF599F624849BA5F3E will be ignored
-[32388:31732:0421/174027.918:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[28088:39340:0421/174028.832:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[38284:41528:0421/174028.832:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[38284:41528:0421/174029.167:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[28088:39340:0421/174029.167:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[32388:31732:0421/174029.282:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[13940:36044:0421/174029.374:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[28088:39340:0421/174029.492:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[38284:41528:0421/174029.499:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[38284:41528:0421/174029.833:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[28088:39340:0421/174029.833:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[13940:36044:0421/174029.938:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[28048:25752:0421/174030.164:ERROR:device_event_log_impl.cc(196)] [17:40:29.928] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[37212:46612:0421/174030.173:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
-[7724:31004:0421/174031.490:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FB61CE19A5C2A586411507511559F6A5 will be ignored
-[37212:46612:0421/174031.496:ERROR:backend_impl.cc(989)] Critical error found -8
-[37212:46612:0421/174031.496:WARNING:storage_block-inl.h(138)] Failed data load.
-[37212:46612:0421/174031.496:WARNING:storage_block-inl.h(138)] Failed data load.
-[37212:46612:0421/174031.496:ERROR:entry_impl.cc(1029)] No file for c1030000
-[37212:46612:0421/174031.498:WARNING:storage_block-inl.h(138)] Failed data load.
-[37212:23436:0421/174033.502:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[37212:23436:0421/174033.502:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[28048:43592:0421/174033.588:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[37212:23436:0421/174034.166:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[37212:23436:0421/174034.172:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[28048:43592:0421/174036.311:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[13940:42480:0421/174036.519:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-[32388:38968:0421/174037.448:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-[28048:25752:0421/174038.213:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[9424:36584:0422/103717.464:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[9424:36584:0422/103717.517:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6240:20024:0422/103720.518:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-DB6F78A58F77EFE3685F434F5141AA9D will be ignored
+[14488:13960:0422/103724.644:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[14488:13960:0422/103724.646:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[14488:13960:0422/103724.667:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[14488:13960:0422/103724.677:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[9424:36584:0422/103725.562:ERROR:device_event_log_impl.cc(196)] [10:37:25.556] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[9424:39632:0422/103729.158:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[14488:13960:0422/103734.891:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[14488:13960:0422/103734.936:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[14488:13960:0422/103742.583:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[14488:13960:0422/103744.026:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[9424:39632:0422/104304.494:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[9424:36584:0422/105030.489:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

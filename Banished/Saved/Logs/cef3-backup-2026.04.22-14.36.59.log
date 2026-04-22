@@ -1,0 +1,15 @@
+[19504:35028:0422/103038.654:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19504:35028:0422/103038.751:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19504:35028:0422/103050.826:ERROR:device_event_log_impl.cc(196)] [10:30:50.770] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[30096:8404:0422/103050.968:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0729A3BA4200EB5CE0D2D4A8DEED1E83 will be ignored
+[18240:38160:0422/103056.240:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[18240:38160:0422/103056.245:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18240:38160:0422/103056.271:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[18240:38160:0422/103056.273:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19504:46160:0422/103056.328:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19504:46160:0422/103056.371:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[18240:38160:0422/103104.935:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18240:38160:0422/103110.584:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18240:38160:0422/103119.228:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[18240:38160:0422/103120.304:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19504:35028:0422/103659.938:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

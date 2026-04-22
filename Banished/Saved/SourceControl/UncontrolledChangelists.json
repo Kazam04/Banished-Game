@@ -5,12 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Gavin/Documents/Unreal Projects/Banished Game/Banished/Content/GameInstance.uasset",
 				"C:/Users/Gavin/Documents/Unreal Projects/Banished Game/Banished/Content/GI_main.uasset",
 				"C:/Users/Gavin/Documents/Unreal Projects/Banished Game/Banished/Content/Variant_Horror/Blueprints/BP_HorrorCharacter.uasset",
 				"C:/Users/Gavin/Documents/Unreal Projects/Banished Game/Banished/Content/UIs/WB_mainmenu.uasset",
 				"C:/Users/Gavin/Documents/Unreal Projects/Banished Game/Banished/Content/Variant_Horror/Lvl_Horror.umap",
-				"C:/Users/Gavin/Documents/Unreal Projects/Banished Game/Banished/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+				"C:/Users/Gavin/Documents/Unreal Projects/Banished Game/Banished/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Gavin/Documents/Unreal Projects/Banished Game/Banished/Content/Survivor_voip.uasset",
+				"C:/Users/Gavin/Documents/Unreal Projects/Banished Game/Banished/Content/GameInstance.uasset"
 			]
 		}
 	]

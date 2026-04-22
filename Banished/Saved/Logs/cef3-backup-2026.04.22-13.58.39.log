@@ -1,0 +1,18 @@
+[44260:46316:0422/095805.865:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[44260:46316:0422/095805.922:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14708:34684:0422/095809.190:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-549E203C9B205327E1D2165DF7080B32 will be ignored
+[44260:46316:0422/095812.475:ERROR:device_event_log_impl.cc(196)] [09:58:12.469] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[42696:33572:0422/095812.503:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[42696:33572:0422/095812.507:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[42696:33572:0422/095812.515:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[42696:33572:0422/095812.527:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[42696:33572:0422/095812.535:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[42696:33572:0422/095812.543:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[44260:41740:0422/095812.591:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[44260:41740:0422/095816.535:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[42696:33572:0422/095821.768:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[42696:33572:0422/095824.508:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[42696:33572:0422/095825.115:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[42696:33572:0422/095833.915:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[42696:33572:0422/095836.191:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[42696:33572:0422/095839.411:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
